@@ -4,7 +4,7 @@ A web application dedicated to displaying OpenWeatherMap weather forecasts.
 
 ![Screenshot of the application](https://preview.ibb.co/jzGA5H/Screenshot_from_2018_03_21_20_06_52.png)
 
-Demo : 
+Demo : https://weather-harshita.herokuapp.com
 
 ## Functionalities
 
@@ -14,7 +14,7 @@ Demo :
     - Sunrise, Sunset
 - Display weather forecast from a city name
     - Search a city via the input in the form
-    - Search a city via the URL. Useful if you want to send a link to someone. E.g. https://harshitarajpoot.github.io/weatherapp/#pune
+    - Search a city via the URL. Useful if you want to send a link to someone. E.g.https://weather-harshita.herokuapp.com/#pune
 - Display weather forecast from the user geolocation
 - Display a custom gradient background according to the temperature
 - URL on the city name to Google Map
