@@ -4,7 +4,7 @@ A web application dedicated to displaying OpenWeatherMap weather forecasts.
 
 ![Screenshot of the application](https://preview.ibb.co/jzGA5H/Screenshot_from_2018_03_21_20_06_52.png)
 
-Demo : https://harshitarajpoot.github.io/weatherapp
+Demo : 
 
 ## Functionalities
 
