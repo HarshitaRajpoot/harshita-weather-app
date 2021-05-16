@@ -15,7 +15,7 @@ $(document).ready(function(){
     }
     else {
         // Default city
-        city = "London";
+        city = "Pune";
     }
     // Get and display current date
     date = moment();
